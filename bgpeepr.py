@@ -33,9 +33,6 @@ Output:
 Requirements:
     - Python 3
     - Modules: requests, netaddr
-
-Author:
-    CalebJ — Original Bash script (2015) and Python port (2025)
 """
 import argparse
 import csv
