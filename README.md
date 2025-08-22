@@ -23,14 +23,6 @@ pip install netaddr
 ```
 
 ## Usage
-=======
-Or install manually:
-
-```bash
-pip install requests netaddr
-```
-
-## Usage
 
 ```bash
 python3 bgpeepr.py <company> [options]
